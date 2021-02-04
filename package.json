@@ -4,7 +4,7 @@
 	"description": "A project that changes people's lives",
 	"keywords": ["freeCodeCamp", "awesome"],
 	"license": "MIT",
-	"version": "1.2.3"
+	"version": "1.2.3",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
