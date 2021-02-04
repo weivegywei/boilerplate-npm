@@ -3,6 +3,7 @@
 	"author": "Wei",
 	"description": "A project that changes people's lives",
 	"keywords": ["freeCodeCamp", "awesome"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
